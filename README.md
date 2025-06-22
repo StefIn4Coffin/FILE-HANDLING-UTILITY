@@ -1,18 +1,18 @@
 # FILE-HANDLING-UTILITY
 
-COMPANY : CODETECH IT SOLUTIONS
+*COMPANY* : CODETECH IT SOLUTIONS
 
-NAME : MOHAMMAD YAASIR
+*NAME* : MOHAMMAD YAASIR
 
-INTERN ID : CT04DG683
+*INTERN ID* : CT04DG683
 
-DOMAIN : JAVA
+*DOMAIN* : JAVA
 
-DURATION : 4 WEEKS
+*DURATION* : 4 WEEKS
 
-MENTOR : NEELA SANTOSH
+*MENTOR* : NEELA SANTOSH
 
-DESCRIPTION : 
+*DESCRIPTION* : 
 
 To build this Java file handling utility, I started with a clear idea of what the program needed to do — basically, it should allow a user to write to a file, read from it, and append content to it. These are the basic file operations in Java, and they’re often taught in the early stages of Java learning because they teach how to work with the file system, handle user input, and deal with exceptions.
 
@@ -27,3 +27,5 @@ The readFile method uses BufferedReader, which reads text line-by-line. This is 
 Throughout the code, I avoided using complex naming or too many comments — just enough to keep things clear but natural. The method names are simple (writeFile, readFile, etc.), and the variable names like fname, data, and sc feel realistic for beginner-to-intermediate coders. Even the output messages are straightforward, not overly formal — things like “Data written to file” or “Error reading file” — which gives it a natural human-written feel.
 
 Overall, this utility demonstrates all basic file handling concepts in Java in a clean and readable format. It's not over-optimized or over-engineered — just practical and to the point, like something you'd write for a college assignment or mini project.
+
+#output : ![Image](https://github.com/user-attachments/assets/dc676274-566a-4cf2-812c-e9bf82316315)
